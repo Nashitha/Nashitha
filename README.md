@@ -14,7 +14,7 @@ Motivated and detail-oriented learner with a strong interest in software develop
 ## 🛠️ Technical Skills
 
 **Languages**
-- C / C++ / Python / Java *(update as needed)*
+- C / Python / Java
 
 **Web Technologies**
 - HTML, CSS, JavaScript
@@ -23,7 +23,7 @@ Motivated and detail-oriented learner with a strong interest in software develop
 - Git, GitHub, VS Code
 
 **Core Concepts**
-- Data Structures & Algorithms *(if applicable)*
+- Data Structures & Algorithms
 - Object-Oriented Programming
 
 ---
@@ -50,8 +50,8 @@ To grow as a software developer by applying problem-solving skills, contributing
 
 ## 📫 Contact
 
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile  
+- Email: nashitha056@gmail.com  
+- LinkedIn: www.linkedin.com/in/nashitha-shaik-426627283 
 
 ---
 
